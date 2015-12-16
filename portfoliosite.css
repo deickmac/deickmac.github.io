@@ -13,6 +13,21 @@
 .modfooter1{width:1280px;height:40px; background-color: snow; margin-top: 160px;float: left;}
 .modfooter1 p{color: aquamarine; text-align: center;margin-top: 10px; }
 .about{width: 400px; height: 200px; color: darkgrey; margin-left: 700px; margin-top: 150px;}
+.modfooter2{width:1280px;height:40px; background-color: snow; margin-top: 65px;float: left;}
+.modfooter2 p{color: aquamarine; text-align: center;margin-top: 10px; }
+.modfooter3{width:1280px;height:40px; background-color: snow; margin-top: 65px;float: left;}
+.modfooter3 p{color: aquamarine; text-align: center;margin-top: 10px; }
+.modfooter4{width:1280px;height:40px; background-color: snow; margin-top: 70px;float: left;}
+.modfooter4 p{color: aquamarine; text-align: center;margin-top: 10px; }.modfooter5{width:1280px;height:40px; background-color: snow; margin-top: 35px;float: left;}
+.modfooter5 p{color: aquamarine; text-align: center;margin-top: 10px; }
+.modfooter6{width:1280px;height:40px; background-color: snow; margin-top: -14px;float: left;}
+.modfooter6 p{color: aquamarine; text-align: center;margin-top: 10px; }
+.modfooter7{width:1280px;height:40px; background-color: snow; margin-top: -10px;float: left;}
+.modfooter7 p{color: aquamarine; text-align: center;margin-top: 10px; }
+
+
+
+.about{width: 400px; height: 200px; color: darkgrey; margin-left: 700px; margin-top: 150px;}
 
 .about p{color: white; font-family: "century gothic"; float; margin-left: -15px; margin-top: -155px}
 .aboutimage{width:360px; height: 360px; margin-left: 250px;float: left;margin-top: -215px;}
@@ -211,10 +226,10 @@ a {text-decoration: none;}
 
 .metaimage img{width:400px; height: 600px; margin-left: 430px; margin-top: -60px;float: none;}
 
-.fusion1 img{width:400px; height: 300px; margin-left: 195px; margin-top: -40px;float: none;}
-.fusion2 img{width:400px; height: 300px; margin-left: 195px; margin-top: 30px;float: none;}
-.fusion3 img{width:400px; height: 300px; margin-left: 195px; margin-top: -40px;float: none;}
-.fusion4 img{width:400px; height: 300px; margin-left: 195px; margin-top: 30px;float: none;}
+.fusion1 img{width:400px; height: 300px; margin-left: 230px; margin-top: -60px;float: none;}
+.fusion2 img{width:400px; height: 300px; margin-left: 230px; margin-top: 30px;float: none;}
+.fusion3 img{width:400px; height: 300px; margin-left: 50px; margin-top: -60px;float: none;}
+.fusion4 img{width:400px; height: 300px; margin-left: 50px; margin-top: 30px;float: none;}
 .topgrid{float: left}
 .bottomgrid{float: left}
 
