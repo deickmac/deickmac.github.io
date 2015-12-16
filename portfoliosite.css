@@ -253,3 +253,10 @@ a {text-decoration: none;}
 .typeface p{margin-right: -150px; margin-top: -70px; text-align: center;}
 .rgb p{margin-right: -150px; margin-top: -70px; text-align: center;}
 
+
+
+.footer-social{float: right; margin-top: -70px;}
+.footer-social li{display: inline;}
+
+.footer-facebook{float: right; margin-top: -70px;}
+.footer-facebook li{display: inline;} 
