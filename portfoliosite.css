@@ -258,5 +258,5 @@ a {text-decoration: none;}
 .footer-social{float: right; margin-top: -70px;}
 .footer-social li{display: inline;}
 
-.footer-facebook{float: right; margin-top: -70px;}
+.footer-facebook{float: right; margin-top: -70px;margin-left: 1000px}
 .footer-facebook li{display: inline;} 
